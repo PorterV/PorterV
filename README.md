@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! My name is Valentine. I was born in architecture environment, but after my graduation of the Bachelor of Moscow Architecture Institute I've changed my mind and decided to start my new journey in programming world. 
+Hi! My name is Valentine. I was born in architecture environment, but after my graduation of the Bachelor of Moscow Architecture Institute I've changed my mind and decided to start my new journey in programming world. Based in Moscow. Currently studying in School_21 by Sber based on School_42.
 
 
 ## 🌐 Socials:
